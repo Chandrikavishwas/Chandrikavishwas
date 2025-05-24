@@ -1,6 +1,6 @@
 <h2>Hello👋, I am Chandrika vishwas</h2>
 <hr>
-<i>A Skilled Full-stack Web Developer with specialization MERN stack and proficient in
+<i>A Skilled Frontend Web Developer with specialization MERN stack and proficient in
         HTML, CSS, JavaScript, React.js, Redux. Completed a comprehensive 1000+ hour web
         development course at Masai School with hands-on experience in individual and collaborative projects. Seeking an
         opportunity to apply the skills and knowledge while continuing to learn and grow in this dynamic field.
@@ -35,7 +35,7 @@
         </a>
         <br/>
         <br/>
-        <a href="https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67c44ae73bc96bedb0a8f268" > My Resume </a>
+        <a href="https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67f2d3accde9896136179698" > My Resume </a>
         <br/>         
         
    

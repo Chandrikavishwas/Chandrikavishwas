@@ -15,7 +15,7 @@
 
 <p>👨‍💻 All of my projects are available at <a href="https://chandrikavishwas.netlify.app/"
             style="font-weight: 600; color: blue;">PortFolio</a></p>
-<p>💬 Ask me about HTML | CSS | JavaScript | React.js | Redux | Node.js | Express.js | MongoDB | Socket.io</p>
+<p>💬 Ask me about  HTML | CSS | JavaScript | React.js | Redux </p>
 
 
 <br>

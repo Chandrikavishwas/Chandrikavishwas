@@ -1,41 +1,19 @@
 <h2>Hello👋, I am Chandrika vishwas</h2>
-<hr>
-<i>A Skilled Frontend Web Developer with specialization MERN stack and proficient in
-        HTML, CSS, JavaScript, React.js, Redux. Completed a comprehensive 1000+ hour web
-        development course at Masai School with hands-on experience in individual and collaborative projects. Seeking an
-        opportunity to apply the skills and knowledge while continuing to learn and grow in this dynamic field.
-</i>
-<br>
-<br>
-
-<p>More About Masai School: <a href="https://masaischool.com/" style="font-weight: 600; color: blue;">Click Here</a>
-</p>
-
-<p>🌱 I’m a Full stack MERN Developer .</p>
-
-<p>👨‍💻 All of my projects are available at <a href="https://chandrikavishwas.netlify.app/"
-            style="font-weight: 600; color: blue;">PortFolio</a></p>
-<p>💬 Ask me about  HTML | CSS | JavaScript | React.js | Redux </p>
+# 💫 About Me:
+A skilled Frontend Developer specializing in building responsive, user-friendly web applications using HTML, CSS, JavaScript, React.js, and Redux. Completed an intensive 1000+ hour web development program at Masai School, gaining hands-on experience through both individual and team projects. Passionate about creating seamless user experiences and continuously improving technical skills. Seeking an opportunity to contribute as a Frontend Developer while growing within a dynamic and innovative environment.<br><br>🌱 I’m a Frontend Web Developer <br><br>👨‍💻 All of my projects are available at Portfolio<br><br>💬 Ask me about HTML | CSS | JavaScript | React.js | Redux
 
 
-<br>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandrika-vishwas-aa56b9244/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandrikavishwas@gmail.com) 
 
-<h3 align="left">Connect with me:</h3>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Chandrikavishwas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Chandrikavishwas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrikavishwas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<b>Email: </b><a href="" style="font-weight: 600; color: blue;">chandrikavishwas@gmail.com</a>
+---
+[![](https://visitcount.itsvg.in/api?id=Chandrikavishwas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div id="badges">
-        <a href="https://www.linkedin.com/in/chandrika-vishwas-aa56b9244/">
-            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-                alt="LinkedIn Badge" />
-        </a>
-        <a href="https://chandrikavishwas.netlify.app/">
-            <img src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=github&logoColor=white"
-                alt="Github Badge" />
-        </a>
-        <br/>
-        <br/>
-        <a href="https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67f2d3accde9896136179698" > My Resume </a>
-        <br/>         
-        
-   
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

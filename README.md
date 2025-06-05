@@ -1,4 +1,4 @@
-<h2>Hello👋, I am Chandrika vishwas</h2>
+## Hello👋, I am Chandrika vishwas
 ## 💫 About Me:
 A skilled Frontend Developer specializing in building responsive, user-friendly web applications using HTML, CSS, JavaScript, React.js, and Redux. Completed an intensive 1000+ hour web development program at Masai School, gaining hands-on experience through both individual and team projects. Passionate about creating seamless user experiences and continuously improving technical skills. Seeking an opportunity to contribute as a Frontend Developer while growing within a dynamic and innovative environment.<br><br>🌱 I’m a Frontend Web Developer <br><br>👨‍💻 All of my projects are available at Portfolio<br><br>💬 Ask me about HTML | CSS | JavaScript | React.js | Redux
 

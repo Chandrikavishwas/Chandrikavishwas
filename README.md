@@ -1,6 +1,6 @@
 ## Hello👋, I am Chandrika vishwas
 # 💫 About Me:
-A skilled Frontend Developer specializing in building responsive, user-friendly web applications using HTML, CSS, JavaScript, React.js, and Redux. Completed an intensive 1000+ hour web development program at Masai School, gaining hands-on experience through both individual and team projects. Passionate about creating seamless user experiences and continuously improving technical skills. Seeking an opportunity to contribute as a Frontend Developer while growing within a dynamic and innovative environment.<br><br>🌱 I’m a Frontend Web Developer <br><br>👨‍💻 All of my projects are available at Portfolio<br><br>💬 Ask me about HTML | CSS | JavaScript | React.js | Redux
+A skilled Full Stack Developer specializing in building responsive, user-friendly web applications using HTML, CSS, JavaScript, React.js, and Node.js. Completed an intensive 1000+ hour web development program at Masai School, gaining hands-on experience through both individual and team projects. Passionate about creating seamless user experiences and continuously improving technical skills. Seeking an opportunity to contribute as a Full Stack Developer while growing within a dynamic and innovative environment.<br><br>🌱 I’m a Full Stack Web Developer <br><br>👨‍💻 All of my projects are available at Portfolio<br><br>💬 Ask me about HTML | CSS | JavaScript | React.js | Redux | Node.js
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Chandrikavishwas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
